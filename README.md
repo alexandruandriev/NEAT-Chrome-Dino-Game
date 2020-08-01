@@ -6,6 +6,6 @@ python main.py
 
 
 # Requirements:
-### python-3.7.1 Or Better.
-### pygame.
-### python-neat.
+### python-3.7.1 Or Better
+### pygame
+### python-neat
